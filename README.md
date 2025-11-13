@@ -19,15 +19,20 @@ a minimalist theme collection, inspired by a blend of gothic and emo aesthetics 
 ## usage
 
 1. downloads files
- - `nyxvamp-eclipse.json`
- - `nyxvamp-midnight.json`
- - `nyxvamp-dawn.json`
+
+- `nyxvamp-eclipse.json`
+- `nyxvamp-midnight.json`
+- `nyxvamp-dawn.json`
+
 2. place into the zed themes directory
- - unix: `~/.config/zed/themes/`
+
+- unix: `~/.config/zed/themes/`
+
 3. issue the theme
- - open zed
- - open theme picker (cmd+k+t)
- - type nyxvamp and choose your variant
+
+- open zed
+- open theme picker (cmd+k+t)
+- type nyxvamp and choose your variant
 
 ## contribution
 
