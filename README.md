@@ -16,6 +16,8 @@ a minimalist theme collection, inspired by a blend of gothic and emo aesthetics 
 
 <img src="./assets/nyxvamp-radiance.png" />
 
+4. **jhujuba**: pink-tinted mid-dark theme, sweeter than veil.
+
 ## usage
 
 1. downloads files

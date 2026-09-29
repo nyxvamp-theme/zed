@@ -5,6 +5,19 @@ All notable changes to the NyxVamp Zed theme will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.3.0] - 2026-09-28
+
+### Added
+
+- New variant: NyxVamp Jhujuba, a pink-tinted mid-dark theme between veil and radiance
+
+### Changed
+
+- **Veil**: comment gray `#6E6A86` to `#8C88A6`; constants and booleans from pink `#F28FAD` to gold `#E1C487`
+- **Obsidian**: comment gray `#5E5A76` to `#8682A0`; constants and booleans from pink `#F28FAD` to gold `#D7BA7D`
+- **Radiance**: contrast fixes from the palette audit: string `#B8860B` to `#825B00`, keyword purple `#9655FF` to `#7743CC`, type purple `#6B46C1` to `#4657BD`, hint cyan `#8BD5CA` to `#2B7068`, conflict red `#E78284` to `#A43A41`
+- **All variants**: namespace now uses the type color instead of the keyword color, matching the canonical Helix theme
+
 ## [0.2.1] - 2025-08-26
 
 ### Fixed
