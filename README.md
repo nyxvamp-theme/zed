@@ -22,9 +22,7 @@ a minimalist theme collection, inspired by a blend of gothic and emo aesthetics 
 
 1. downloads files
 
-- `nyxvamp-eclipse.json`
-- `nyxvamp-midnight.json`
-- `nyxvamp-dawn.json`
+- `nyxvamp.json` (contains all variants)
 
 2. place into the zed themes directory
 
